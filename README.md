@@ -16,7 +16,7 @@ u.a. enthalten:
 
 Die Einstellungen können mit der Datei <code>/vendor/happywpscss-settings.json</code> im Plugin unter "Import/Export" geladen werden.
 
-Alternativ: 
+Alternativ manuelles Setup im Plugin: 
 - SCSS Path: <code>/scss/</code> 
 - CSS Path: <code>/css/</code> 
 - Compilation Time: <code>When SCSS has changed</code> 
