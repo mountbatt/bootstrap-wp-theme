@@ -2,6 +2,7 @@
 
 ## Benötigte Plugins:
 - https://de.wordpress.org/plugins/happy-scss-compiler/
+
 Die Einstellungen können mit der Datei /vendor/happywpscss-settings.json im Plugin unter "Import/Export" geladen werden.
 
 Alternativ: 
